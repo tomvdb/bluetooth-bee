@@ -1,0 +1,9 @@
+C:\source\hardware\bluetooth_bee\bluetooth_bee\bin\Debug\bluetooth_bee.exe
+C:\source\hardware\bluetooth_bee\bluetooth_bee\bin\Debug\bluetooth_bee.pdb
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\bluetooth_bee.mainWindow.resources
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\bluetooth_bee.Properties.Resources.resources
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\bluetooth_bee.exe
+C:\source\hardware\bluetooth_bee\bluetooth_bee\obj\x86\Debug\bluetooth_bee.pdb
